@@ -14,4 +14,4 @@ addSbtPlugin("org.scoverage"      % "sbt-scoverage"                 % "2.4.4")
 addSbtPlugin("dev.zio"            % "zio-sbt-website"               % "0.4.10")
 addSbtPlugin("ch.epfl.scala"      % "sbt-scalafix"                  % "0.14.5")
 
-libraryDependencies += "org.snakeyaml" % "snakeyaml-engine" % "3.0.1"
+libraryDependencies += "org.snakeyaml" % "snakeyaml-engine" % "3.1.1"
